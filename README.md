@@ -1,1 +1,1 @@
-# SentimentAnalysis-in-amazon-reviews
+# SentimentAnalysis-on-amazon-reviews
